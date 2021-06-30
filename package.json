@@ -1,6 +1,6 @@
 {
   "name": "isolates-playground",
   "dependencies": {
-    "isolated-vm": "^1.7.7"
+    "isolated-vm": "^4.3.2"
   }
 }
